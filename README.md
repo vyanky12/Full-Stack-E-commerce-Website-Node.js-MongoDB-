@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# e-commerce-0424
+# e-commerce
 ## How to run:
 ```
 cd e-commerce-frontend
